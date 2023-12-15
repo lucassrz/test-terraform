@@ -17,4 +17,3 @@ services:
     working_dir: /var/www
     volumes:
       - ./data:/var/www
-    command: docker-php-ext-install mysqli pdo pdo_mysql
