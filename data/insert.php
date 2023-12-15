@@ -1,5 +1,4 @@
 <?php
-echo 'serveur 1';
 $host = getenv('host');
 $dbname = 'test';
 $username = getenv('user');
