@@ -1,3 +1,3 @@
 working
 
-<? php_info(); ?>
+<? phpinfo(); ?>
