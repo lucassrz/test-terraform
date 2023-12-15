@@ -1,1 +1,3 @@
 working
+
+<? php_info(); ?>
